@@ -1,0 +1,2 @@
+C:\BLOCKCHAIN\blockchain_ws\Block-chain\x64\Debug\libcurl.dll
+C:\BLOCKCHAIN\blockchain_ws\Block-chain\x64\Debug\LibCurlShim.dll
